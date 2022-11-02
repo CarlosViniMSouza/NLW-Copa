@@ -1,4 +1,4 @@
 git add .
-git commit -m "Lesson 02 finished | client&server-side done"
+git commit -m "Lesson 03 finished | mobile in development"
 git push -u origin main
 git status
