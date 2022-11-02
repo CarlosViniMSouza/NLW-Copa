@@ -1,4 +1,4 @@
 git add .
-git commit -m "Lesson 03 finished | mobile in development"
+git commit -m "Expo folder deleted on root"
 git push -u origin main
 git status
