@@ -1,0 +1,12 @@
+1. npx prisma migrate dev
+2. create table pools
+3. npx prisma studio
+4. npm i prisma-erd-generator @mermaid-js/mermaid-cli -D
+5. npx prisma generate
+6. npm i @fastify/cors
+
+Front-End:
+
+7. npx create-next-app@latest --use-npm
+
+-> Create Front-End App at Home (or at Church, if possible)
