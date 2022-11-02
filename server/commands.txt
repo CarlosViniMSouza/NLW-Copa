@@ -10,3 +10,5 @@ Front-End:
 7. npx create-next-app@latest --use-npm
 
 -> Create Front-End App at Home (or at Church, if possible)
+
+-> Idea: add Login Screen in web Application
