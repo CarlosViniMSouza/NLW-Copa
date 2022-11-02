@@ -1,5 +1,4 @@
-import { NativeBaseProvider, Center, Text } from "native-base";
-
+import { NativeBaseProvider, StatusBar } from "native-base";
 import { Loading } from './src/components/Loading';
 import { SingIn } from './src/screens/SingIn';
 
@@ -21,6 +20,11 @@ export default function App() {
 
   return (
     <NativeBaseProvider theme={THEME}>
+      <StatusBar
+        barStyle="light-content"
+        backgroundColor="transparent"
+        translucent
+      />
       {fontsLoaded ? <SingIn /> : <Loading />}
     </NativeBaseProvider>
   );
