@@ -1,4 +1,4 @@
 git add .
-git commit -m "Stop Video Moment: 50:30 | Server done (i think)"
+git commit -m "Lesson 02 finished | client&server-side done"
 git push -u origin main
 git status
