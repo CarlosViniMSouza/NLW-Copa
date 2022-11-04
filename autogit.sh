@@ -1,4 +1,4 @@
 git add .
-git commit -m "mobile almost done"
+git commit -m " README updated"
 git push -u origin main
 git status
