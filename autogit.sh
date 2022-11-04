@@ -1,4 +1,4 @@
 git add .
-git commit -m "Server done"
+git commit -m "mobile almost done"
 git push -u origin main
 git status
