@@ -16,6 +16,10 @@ It's time for mobile. In this class we will build the layout using NativeBase to
 
 In this class we will finish building the backend and connecting the mobile app with our API. We are also going to implement social login and finally add the functionality to create and list pools.
 
+## **Class 05 - Finishing the app and features + next steps**
+
+Preparing the project for the world. In this class we will finish the mobile by configuring environment variables and implementing the other features of our application.
+
 ## Tecnologies:
 
 ### Front-END:
